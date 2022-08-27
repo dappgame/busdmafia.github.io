@@ -1,5 +1,7 @@
 ---
 description: Busdmafia.online
+cover: .gitbook/assets/logo.02f055dd.png
+coverY: 0
 ---
 
 # WHAT IS BUSD MAFIA?
