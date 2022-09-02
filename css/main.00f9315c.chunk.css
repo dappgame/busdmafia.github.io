@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body {
+  background-color: #000;
+  color: #ffffff;
+  background-image: url('../images/bg.png');
+  background-attachment: fixed;
+  background-size: cover;
+  font-weight: 700;
+  font-family: 'Play', sans-serif;
+}
+
+.card {
+  color: white;
+  border: 0.5px solid #ffffff !important;
+  min-height: 150px;
+  color: rgb(255 255 255);
+}
+.card-body {
+  background-color: #7e0303c2 !important;
+  color: white;
+  border: 0.5px solid white;
+  padding-bottom: 0.5rem;
+}
+
+.cardDino {
+  border: 1.2px solid #ffffff !important;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+td {
+  color: rgb(255 255 255);
+}
+
+.btn {
+    padding: 4.5px 10px;
+    background: rgb(39 92 143);
+    color: white;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.btnd {
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+tr {
+  border-bottom: 1px solid #b85a5c;
+}
+
+.form-control::-webkit-input-placeholder {
+  color: #000000;
+}
+
+.form-control:-ms-input-placeholder {
+  color: #f06203;
+}
+
+.form-control::placeholder {
+  color: #000000;
+}
+
+@media only screen and (max-width: 600px) {
+  .btnd {
+    width: 100%;
+    margin-bottom: 5px;
+  }
+  .cardDino {
+    height: auto;
+  }
+  .card,
+  .cardDino {
+    margin-bottom: 10px;
+  }
+}
+
+/*# sourceMappingURL=main.00f9315c.chunk.css.map */
