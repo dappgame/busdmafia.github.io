@@ -2442,7 +2442,7 @@
                                                     children: [" ", Object(E.jsx)("h3", {
                                                         children: "Deposit Fee 🩸"
                                                     }), Object(E.jsx)("h3", {
-                                                        children: "0%"
+                                                        children: "5% - Marketing"
                                                     })]
                                                 })
                                             })
