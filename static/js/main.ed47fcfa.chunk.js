@@ -110,7 +110,7 @@
                     REACT_APP_DEVELOPERMOOD: "false",
                     REACT_APP_ADMIN_WALLET: "0xeDda662A365F665C60B9c4aC1F20d71C41C63148",
                     REACT_APP_TOKEN_CONTRACT: "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-                    REACT_APP_CONTRACT: "0xEaAC64311F6BB1C15fbfFC803F0b765b1AA98538",
+                    REACT_APP_CONTRACT: "edit",
                     REACT_APP_PHASE: "mainnet",
                     REACT_APP_MIN_DEPOSIT: "10",
                     REACT_APP_MAX_DEPOSIT: "2500"
