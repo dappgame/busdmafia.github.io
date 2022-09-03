@@ -113,7 +113,7 @@
                     REACT_APP_CONTRACT: "0xEaAC64311F6BB1C15fbfFC803F0b765b1AA98538",
                     REACT_APP_PHASE: "mainnet",
                     REACT_APP_MIN_DEPOSIT: "10",
-                    REACT_APP_MAX_DEPOSIT: "50000"
+                    REACT_APP_MAX_DEPOSIT: "2500"
                 }),
                 h = {
                     deviceType: "web",
@@ -2361,31 +2361,23 @@
                                             children: Object(E.jsx)("a", {
                                                 className: "nav-link",
                                                 target: "_blank",
-                                                href: "https://hazecrypto.net/audit/messi10busd",
-                                                children: "AUDIT 1"
+                                                href: "edit",
+                                                children: "WHITEPAPER"
                                             })
                                         }), Object(E.jsx)("li", {
                                             className: "nav-item",
                                             children: Object(E.jsx)("a", {
                                                 className: "nav-link",
                                                 target: "_blank",
-                                                href: "https://georgestamp.xyz/2022/08/messi10busd/",
-                                                children: "AUDIT 2"
+                                                href: "edit",
+                                                children: "AUDIT"
                                             })
                                         }), Object(E.jsx)("li", {
                                             className: "nav-item",
                                             children: Object(E.jsx)("a", {
                                                 className: "nav-link",
                                                 target: "_blank",
-                                                href: " ",
-                                                children: " "
-                                            })
-                                        }), Object(E.jsx)("li", {
-                                            className: "nav-item",
-                                            children: Object(E.jsx)("a", {
-                                                className: "nav-link",
-                                                target: "_blank",
-                                                href: "https://t.me/messi10busd",
+                                                href: "https://t.me/busdmafiaminer",
                                                 children: "TELEGRAM"
                                             })
                                         })]
@@ -2403,7 +2395,7 @@
                                                 className: "card-body",
                                                 children: Object(E.jsxs)("center", {
                                                     children: [Object(E.jsx)("h3", {
-                                                        children: "Contract Balance"
+                                                        children: "Contract ⚡️"
                                                     }), Object(E.jsxs)("h3", {
                                                         children: [" ", i ? i.display : "0", " BUSD"]
                                                     })]
@@ -2418,7 +2410,7 @@
                                                 className: "card-body",
                                                 children: Object(E.jsxs)("center", {
                                                     children: [" ", Object(E.jsx)("h3", {
-                                                        children: "Daily ROI"
+                                                        children: "Daily ROI 🔥"
                                                     }), Object(E.jsx)("h3", {
                                                         children: "10%"
                                                     })]
@@ -2433,7 +2425,7 @@
                                                 className: "card-body",
                                                 children: Object(E.jsxs)("center", {
                                                     children: [" ", Object(E.jsx)("h3", {
-                                                        children: "Withdrawal Fee"
+                                                        children: "Mafia's Cut! 🔪"
                                                     }), Object(E.jsx)("h3", {
                                                         children: "10%"
                                                     })]
@@ -2448,9 +2440,9 @@
                                                 className: "card-body",
                                                 children: Object(E.jsxs)("center", {
                                                     children: [" ", Object(E.jsx)("h3", {
-                                                        children: "Deposit Fee"
+                                                        children: "Deposit Fee 🩸"
                                                     }), Object(E.jsx)("h3", {
-                                                        children: "5%"
+                                                        children: "0%"
                                                     })]
                                                 })
                                             })
@@ -2472,7 +2464,7 @@
                                                 },
                                                 children: [Object(E.jsx)("h4", {
                                                     children: Object(E.jsx)("b", {
-                                                        children: "Investment Portal"
+                                                        children: "Mafia Empire ⚔️"
                                                     })
                                                 }), Object(E.jsx)("hr", {}), Object(E.jsx)("table", {
                                                     className: "table",
@@ -2588,7 +2580,7 @@
                                                                             onClick: function() {
                                                                                 T > 0 ? c(u) : S()
                                                                             },
-                                                                            children: T > 0 ? "Stake" : "Enable"
+                                                                            children: T > 0 ? "Stake" : "Join Mafia"
                                                                         })
                                                                     })]
                                                                 }) : Object(E.jsx)("span", {
@@ -2611,7 +2603,7 @@
                                                 className: "card-body",
                                                 children: [Object(E.jsx)("h4", {
                                                     children: Object(E.jsx)("b", {
-                                                        children: "Statistics"
+                                                        children: "PayDay 💵 "
                                                     })
                                                 }), Object(E.jsx)("hr", {}), Object(E.jsx)("table", {
                                                     className: "table",
@@ -2782,7 +2774,7 @@
                                                 },
                                                 children: [Object(E.jsx)("h4", {
                                                     children: Object(E.jsx)("b", {
-                                                        children: "Referral Rewards 5%"
+                                                        children: "Associate Rewards 5% 🕴🕴"
                                                     })
                                                 }), Object(E.jsx)("hr", {}), Object(E.jsx)("table", {
                                                     className: "table",
@@ -2840,7 +2832,7 @@
                                                 },
                                                 children: [Object(E.jsx)("h4", {
                                                     children: Object(E.jsx)("b", {
-                                                        children: "Your Referral Link"
+                                                        children: "Your Associates Link 🕴🕴"
                                                     })
                                                 }), Object(E.jsx)("hr", {}), Object(E.jsxs)("div", {
                                                     children: ["Share your Referral Link To Earn 5% of BUSD", t && e && +e.amount > 0 ? Object(E.jsx)(E.Fragment, {
@@ -2892,7 +2884,7 @@
                                             },
                                             children: [Object(E.jsx)("div", {
                                                 className: "card-header w-100",
-                                                children: "Investment Calculator"
+                                                children: "Investment Calculator 📠"
                                             }), Object(E.jsx)("div", {
                                                 className: "card-body",
                                                 children: Object(E.jsxs)("div", {
@@ -2928,7 +2920,7 @@
                                             })]
                                         })
                                     })
-                                }), Object(E.jsx)("br", {}), Object(E.jsxs)("center", {
+                                /*}), Object(E.jsx)("br", {}), Object(E.jsxs)("center", {
                                     children: [Object(E.jsx)("h2", {}), Object(E.jsx)("p", {
                                         children: " "
                                     })]
@@ -2968,7 +2960,7 @@
                                                 width: 200
                                             }
                                         }), " "]
-                                    })
+                                    })*/
                                 }), Object(E.jsx)("br", {}), Object(E.jsx)("center", {
                                     children: Object(E.jsxs)("h5", {
                                         children: [" ", Object(E.jsxs)("a", {
@@ -2982,8 +2974,8 @@
                                             children: [Object(E.jsx)("i", {
                                                 className: "fa fa-telegram"
                                             }), "  ", " "]
-                                        }), " ", "||", " ", Object(E.jsxs)("a", {
-                                            href: "https://t.me/messi10busd",
+                                        }), " ", " ", Object(E.jsxs)("a", {
+                                            href: "https://t.me/busdmafiaminer",
                                             style: {
                                                 color: "rgb(255, 255, 255)",
                                                 textDecoration: "none"
@@ -2993,8 +2985,8 @@
                                             children: [Object(E.jsx)("i", {
                                                 className: "fa fa-telegram"
                                             }), " Telegram", " "]
-                                        }), " ", "||", " ", Object(E.jsxs)("a", {
-                                            href: "https://twitter.com/messi10busd",
+                                        }), " ", "🩸", " ", Object(E.jsxs)("a", {
+                                            href: "https://twitter.com/busdmafia",
                                             style: {
                                                 color: "rgb(255, 255, 255)",
                                                 textDecoration: "none"
@@ -3004,7 +2996,7 @@
                                             children: [Object(E.jsx)("i", {
                                                 className: "fa fa-twitter"
                                             }), " Twitter", " "]
-                                        }), " ", "||", " ", Object(E.jsxs)("a", {
+                                        /*}), " ", "🩸", " ", Object(E.jsxs)("a", {
                                             href: "https://hazecrypto.net/audit/messi10busd",
                                             style: {
                                                 color: "rgb(255, 255, 255)",
@@ -3025,9 +3017,9 @@
                                             rel: "noreferrer",
                                             children: [Object(E.jsx)("i", {
                                                 className: "fa fa-file-code-o"
-                                            }), " Audit 2", " "]
-                                        }), "||", " ", Object(E.jsxs)("a", {
-                                            href: "https://bscscan.com/address/0xEaAC64311F6BB1C15fbfFC803F0b765b1AA98538#code",
+                                            }), " Audit 2", " "]*/
+                                        }), "🩸", " ", Object(E.jsxs)("a", {
+                                            href: "https://bscscan.com/address/edit",
                                             style: {
                                                 color: "rgb(255, 255, 255)",
                                                 textDecoration: "none"
