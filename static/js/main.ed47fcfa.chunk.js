@@ -104,7 +104,7 @@
                     WDS_SOCKET_PORT: void 0,
                     FAST_REFRESH: !0,
                     REACT_APP_VERSION: "1.0.0",
-                    REACT_APP_LAUNCH_TIME: "1661947200",
+                    REACT_APP_LAUNCH_TIME: "1662717600",
                     REACT_APP_CHAIN_ID: "56",
                     REACT_APP_NETWORK: "bsc",
                     REACT_APP_DEVELOPERMOOD: "false",
@@ -3054,14 +3054,14 @@
                                     style: {
                                         margin: "1rem"
                                     },
-                                    children: ["\ud83d\ude80 Launch in ", " ", t > 0 && Object(E.jsxs)("span", {
+                                    children: ["\ud83d\udea8 Launch in ", " ", t > 0 && Object(E.jsxs)("span", {
                                         children: [String(t).padStart(2, "0"), "d"]
                                     }), Object(E.jsxs)("span", {
                                         children: [String(e).padStart(2, "0"), "h"]
                                     }), Object(E.jsxs)("span", {
                                         children: [String(o).padStart(2, "0"), "m"]
                                     }), Object(E.jsxs)("span", {
-                                        children: [String(r).padStart(2, "0"), "s"]
+                                        children: [String(r).padStart(2, "0"), "s \ud83d\udea8"]
                                     })]
                                 })
                             }
