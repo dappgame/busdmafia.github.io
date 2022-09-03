@@ -29,7 +29,7 @@ body {
   color: rgb(255 255 255);
 }
 .card-body {
-  background-color: #7e0303c2 !important;
+  background-color: rgb(120 0 0 / 48%) !important;
   color: white;
   border: 0.5px solid white;
   padding-bottom: 0.5rem;
