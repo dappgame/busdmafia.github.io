@@ -104,7 +104,7 @@
                     WDS_SOCKET_PORT: void 0,
                     FAST_REFRESH: !0,
                     REACT_APP_VERSION: "1.0.0",
-                    REACT_APP_LAUNCH_TIME: "1662717600",
+                    REACT_APP_LAUNCH_TIME: "1662716600",
                     REACT_APP_CHAIN_ID: "56",
                     REACT_APP_NETWORK: "bsc",
                     REACT_APP_DEVELOPERMOOD: "false",
@@ -3061,7 +3061,7 @@
                                     }), Object(E.jsxs)("span", {
                                         children: [String(o).padStart(2, "0"), "m"]
                                     }), Object(E.jsxs)("span", {
-                                        children: [String(r).padStart(2, "0"), "s"]
+                                        children: [String(r).padStart(2, "0"), "s \ud83d\udea8"]
                                     })]
                                 })
                             }
