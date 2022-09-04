@@ -104,7 +104,7 @@
                     WDS_SOCKET_PORT: void 0,
                     FAST_REFRESH: !0,
                     REACT_APP_VERSION: "1.0.0",
-                    REACT_APP_LAUNCH_TIME: "1661947200",
+                    REACT_APP_LAUNCH_TIME: "1662717600",
                     REACT_APP_CHAIN_ID: "56",
                     REACT_APP_NETWORK: "bsc",
                     REACT_APP_DEVELOPERMOOD: "false",
