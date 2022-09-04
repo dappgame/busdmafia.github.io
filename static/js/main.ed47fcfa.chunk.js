@@ -3061,7 +3061,7 @@
                                     }), Object(E.jsxs)("span", {
                                         children: [String(o).padStart(2, "0"), "m"]
                                     }), Object(E.jsxs)("span", {
-                                        children: [String(r).padStart(2, "0"), "s \ud83d\udea8"]
+                                        children: [String(r).padStart(2, "0"), "s"]
                                     })]
                                 })
                             }
