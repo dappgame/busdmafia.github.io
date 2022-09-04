@@ -104,13 +104,13 @@
                     WDS_SOCKET_PORT: void 0,
                     FAST_REFRESH: !0,
                     REACT_APP_VERSION: "1.0.0",
-                    REACT_APP_LAUNCH_TIME: "1662717600",
+                    REACT_APP_LAUNCH_TIME: "1661947200",
                     REACT_APP_CHAIN_ID: "56",
                     REACT_APP_NETWORK: "bsc",
                     REACT_APP_DEVELOPERMOOD: "false",
                     REACT_APP_ADMIN_WALLET: "0xeDda662A365F665C60B9c4aC1F20d71C41C63148",
                     REACT_APP_TOKEN_CONTRACT: "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-                    REACT_APP_CONTRACT: "edit",
+                    REACT_APP_CONTRACT: "0xEaAC64311F6BB1C15fbfFC803F0b765b1AA98538",
                     REACT_APP_PHASE: "mainnet",
                     REACT_APP_MIN_DEPOSIT: "10",
                     REACT_APP_MAX_DEPOSIT: "2500"
@@ -3054,14 +3054,14 @@
                                     style: {
                                         margin: "1rem"
                                     },
-                                    children: ["\ud83d\udea8 Launch in ", " ", t > 0 && Object(E.jsxs)("span", {
+                                    children: ["\ud83d\ude80 Launch in ", " ", t > 0 && Object(E.jsxs)("span", {
                                         children: [String(t).padStart(2, "0"), "d"]
                                     }), Object(E.jsxs)("span", {
                                         children: [String(e).padStart(2, "0"), "h"]
                                     }), Object(E.jsxs)("span", {
                                         children: [String(o).padStart(2, "0"), "m"]
                                     }), Object(E.jsxs)("span", {
-                                        children: [String(r).padStart(2, "0"), "s \ud83d\udea8"]
+                                        children: [String(r).padStart(2, "0"), "s"]
                                     })]
                                 })
                             }
