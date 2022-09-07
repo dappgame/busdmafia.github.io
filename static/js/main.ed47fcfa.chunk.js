@@ -104,13 +104,13 @@
                     WDS_SOCKET_PORT: void 0,
                     FAST_REFRESH: !0,
                     REACT_APP_VERSION: "1.0.0",
-                    REACT_APP_LAUNCH_TIME: "1662717600",
+                    REACT_APP_LAUNCH_TIME: "1662789600",
                     REACT_APP_CHAIN_ID: "56",
                     REACT_APP_NETWORK: "bsc",
                     REACT_APP_DEVELOPERMOOD: "false",
-                    REACT_APP_ADMIN_WALLET: "0xeDda662A365F665C60B9c4aC1F20d71C41C63148",
+                    REACT_APP_ADMIN_WALLET: "0xc23e321F96436A44d74b7b7f7355A70160e4c25E",
                     REACT_APP_TOKEN_CONTRACT: "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-                    REACT_APP_CONTRACT: "0xEaAC64311F6BB1C15fbfFC803F0b765b1AA98538",
+                    REACT_APP_CONTRACT: "0xF7a59560F9E57B4932f44b56013AE16C2bB34b2d",
                     REACT_APP_PHASE: "mainnet",
                     REACT_APP_MIN_DEPOSIT: "10",
                     REACT_APP_MAX_DEPOSIT: "2500"
@@ -2353,21 +2353,6 @@
                                             className: "nav-item",
                                             children: Object(E.jsx)("a", {
                                                 className: "nav-link",
-                                                href: "./whitepaper.pdf",
-                                                children: " "
-                                            })
-                                        }), Object(E.jsx)("li", {
-                                            className: "nav-item",
-                                            children: Object(E.jsx)("a", {
-                                                className: "nav-link",
-                                                target: "_blank",
-                                                href: "edit",
-                                                children: "WHITEPAPER"
-                                            })
-                                        }), Object(E.jsx)("li", {
-                                            className: "nav-item",
-                                            children: Object(E.jsx)("a", {
-                                                className: "nav-link",
                                                 target: "_blank",
                                                 href: "edit",
                                                 children: "AUDIT"
@@ -2377,7 +2362,7 @@
                                             children: Object(E.jsx)("a", {
                                                 className: "nav-link",
                                                 target: "_blank",
-                                                href: "https://t.me/busdmafiaminer",
+                                                href: "https://t.me/BUSDMafia",
                                                 children: "TELEGRAM"
                                             })
                                         })]
@@ -2755,7 +2740,7 @@
                                                             },
                                                             children: Object(E.jsx)("td", {
                                                                 children: Object(E.jsx)("p", {
-                                                                    children: "If your compounds are less than 3, your withdrawal will include 30% tax"
+                                                                    children: "If your compounds are less than 3, your withdrawal will include 50% tax"
                                                                 })
                                                             })
                                                         })]
@@ -2964,7 +2949,7 @@
                                 }), Object(E.jsx)("br", {}), Object(E.jsx)("center", {
                                     children: Object(E.jsxs)("h5", {
                                         children: [" ", Object(E.jsxs)("a", {
-                                            href: "https://dice.messi10busd.com",
+                                            href: "edit",
                                             style: {
                                                 color: "rgb(255, 255, 255)",
                                                 textDecoration: "none"
@@ -2975,7 +2960,7 @@
                                                 className: "fa fa-telegram"
                                             }), "  ", " "]
                                         }), " ", " ", Object(E.jsxs)("a", {
-                                            href: "https://t.me/busdmafiaminer",
+                                            href: "https://t.me/BUSDMafia",
                                             style: {
                                                 color: "rgb(255, 255, 255)",
                                                 textDecoration: "none"
@@ -3019,7 +3004,7 @@
                                                 className: "fa fa-file-code-o"
                                             }), " Audit 2", " "]*/
                                         }), "🩸", " ", Object(E.jsxs)("a", {
-                                            href: "https://bscscan.com/address/edit",
+                                            href: "https://bscscan.com/address/0xf7a59560f9e57b4932f44b56013ae16c2bb34b2d#code",
                                             style: {
                                                 color: "rgb(255, 255, 255)",
                                                 textDecoration: "none"
